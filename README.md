@@ -5,7 +5,7 @@ O projeto UI Clone da interface da Netflix foi desenvolvido durante o bootcamp H
 
 ## 💻 Layout WEB
 <div align="center">
-       <img src="![classic-flix](https://user-images.githubusercontent.com/68609143/122447902-981e1480-cf7a-11eb-9a94-4b5c3715fcde.JPG)"/ width="500px">
+       <img src="https://user-images.githubusercontent.com/68609143/121578729-5c76ce00-ca01-11eb-9bf3-3750f7ebeea6.JPG"/ width="500px">
 </div>
 
 ## 👨‍💻 Technologies used
