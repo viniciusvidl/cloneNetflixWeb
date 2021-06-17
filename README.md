@@ -1,3 +1,7 @@
+<div align="center">
+       <img src="https://user-images.githubusercontent.com/68609143/122449325-1e872600-cf7c-11eb-98e1-9a2b27702273.png" width="250px">
+</div>
+
 # UI Clone | Netflix 💻 
 
 ## 📝 About
